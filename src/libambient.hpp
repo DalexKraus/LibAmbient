@@ -1,3 +1,13 @@
+/**
+ * LibAmbient - A library for calculating the ambient color of your screen.
+ * 
+ * While this library targets windows machines only,
+ * it is possible to extend support for other operating systems in the future.
+ * 
+ * (c) 2020 Kraus David. All rights reserved.
+ * 
+ */
+
 #ifndef LIB_AMBIENT_H
 #define LIB_AMBIENT_H
 
